@@ -1,0 +1,17 @@
+{
+  "summary": {
+    "title": "Login Process",
+    "owner": "Teresa",
+    "description": "The steps by which a person becomes an authenticated user of the Givealittle system."
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "Login",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ]
+  }
+}
